@@ -1,38 +1,50 @@
 # Node Projects
  ## Commands of Projects
+00  
    ```javascript
-   00 : npx abdulwasay-calculator
+   npx abdulwasay-calculator
 ```
+01  
    ```javascript     
-   01 : npx abdulwasay-numberguess
+   npx abdulwasay-numberguess
 ```
+02  
    ```javascript     
-   02 : npx abdulwasay_atm
+   npx abdulwasay_atm
 ```
+03  
    ```javascript     
-   03 : npx abdulwasay-todoprogram
+    npx abdulwasay-todoprogram
 ```
+04  
    ```javascript     
-   04 : npx abdulwasay-currencyconverter
+    npx abdulwasay-currencyconverter
 ```
+05  
    ```javascript      
-   05 : npx abdulwasay-wordconverter
+    npx abdulwasay-wordconverter
 ```
+06  
    ```javascript      
-   06 : npx abdulwasay-studentmanagmentsystem
+    npx abdulwasay-studentmanagmentsystem
 ```
+07  
    ```javascript
-   07 : npx abdulwasay_adventuregame
+     npx abdulwasay_adventuregame
 ```
+08  
    ```javascript   
-   08 : npx abdulwasay-quiz
+     npx abdulwasay-quiz
 ```
+09  
    ```javascript
-   09 : npx abdulwasay-timercounterprogram
+    npx abdulwasay-timercounterprogram
 ```
+10  
    ```javascript
-   10 : npx abdulwasay-opp
+     npx abdulwasay-opp
  ```
+11 
    ```javascript
-   11 : npx abdulwasay-oppbank
+     npx abdulwasay-oppbank
 ``` 
